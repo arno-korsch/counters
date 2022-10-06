@@ -1,0 +1,7 @@
+{
+  "name": "counters",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
